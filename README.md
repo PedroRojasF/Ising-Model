@@ -1,1 +1,1 @@
-# Ising-Model
+# Modelo de Ising
